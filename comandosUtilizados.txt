@@ -1,0 +1,25 @@
+  361  git config user.name "Jerry Anderson Limpe Quispe"
+  362  git config user.email "jerryandersonlimpe@gmail.com"
+  363  git clone https://github.com/jerry-neko/20230605-Jerry-Anderson-LImpe-Quispe.git
+  364  cd 20230605-Jerry-Anderson-LImpe-Quispe/
+  365  touch comandos.txt main.js index.html
+  366  git init
+  367  git add .
+  368  git commit -m "commit 01 de JerryLimpe"
+  369  git remote add origin https://github.com/jerry-neko/20230605-Jerry-Anderson-LImpe-Quispe.git
+  370  git push -u origin main
+  371  git branch feature01
+  372  git checkout feature01
+  373  mkdir Terminal Hardware
+  374  touch Terminal/resumen.txt Hardware/resumen.txt
+  375  git add .
+  376  git commit -m "commit 02 de JerryLimpe"
+  377  git push -u origin feature01
+  379  git checkout -b feature02
+  380  git add Terminal/resumen.txt
+  381  git add Hardware/resumen.txt
+  382  git commit -m "commit 03 de JerryLimpe"
+  383  git push -u origin feature02
+  384  git checkout main
+  385  git mv comandos.txt comandosUtilizados.txt
+  388  history
