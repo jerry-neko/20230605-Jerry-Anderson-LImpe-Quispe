@@ -1,0 +1,12 @@
+Listado de 5 comandos:
+
+1. git init: Inicializa un nuevo repositorio Git en el directorio actual.
+
+2. git clone <URL>: Clona un repositorio remoto existente en tu máquina local. <URL> representa la URL del repositorio remoto.
+
+3. git add <archivo>: Agrega un archivo al área de preparación (staging area) para ser incluido en el próximo commit. Puedes especificar el nombre de un archivo específico o utilizar . para agregar todos los archivos modificados.
+
+4. git commit -m "Mensaje del commit": Crea un nuevo commit con los cambios en el área de preparación y guarda un mensaje descriptivo asociado al commit.
+
+5. git push: Sube los commits locales al repositorio remoto. Esto sincroniza tu repositorio local con el repositorio en GitHub u otra plataforma de alojamiento.
+

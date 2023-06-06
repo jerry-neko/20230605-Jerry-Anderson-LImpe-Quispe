@@ -1,0 +1,7 @@
+Listado partes de una cpu:
+
+1. Unidad de Control (Control Unit): Es responsable de controlar y coordinar todas las operaciones en la CPU. Supervisa la secuencia de ejecución de las instrucciones, controla el flujo de datos y realiza operaciones de control.
+
+2. Unidad Aritmético-Lógica (Arithmetic Logic Unit - ALU): Es la parte de la CPU que realiza las operaciones aritméticas (suma, resta, multiplicación, división) y las operaciones lógicas (AND, OR, NOT) necesarias para procesar los datos. La ALU realiza los cálculos y las operaciones fundamentales en la CPU.
+
+3. Registros: Los registros son pequeñas unidades de almacenamiento de alta velocidad que se utilizan para almacenar y manipular datos temporalmente durante la ejecución de instrucciones. Los registros son esenciales para el funcionamiento de la CPU, ya que permiten el acceso rápido a los datos y facilitan las operaciones de procesamiento.
